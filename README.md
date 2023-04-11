@@ -1,2 +1,2 @@
 # WarpedTowers
-Contains Warped Towers modding API docs.
+Contains Warped Towers files
